@@ -6,6 +6,6 @@ Trabalho realizado para a disciplina de Computação Gráfica 2013.2 da Universi
 Foi utilizado o Framework JOGL.
 
 Grupo:
-Adeilson Lima
-Emanuele Tuane
+Adeilson Lima,
+Emanuele Tuane e
 Priscylla Silva
